@@ -13,3 +13,6 @@ model User {
   password  String
   createdAt DateTime @default(now())
 }
+
+
+//
